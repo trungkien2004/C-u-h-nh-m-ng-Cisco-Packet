@@ -1,4 +1,4 @@
-# Mô Phỏng Hạ Tầng Mạng Doanh Nghiệp Đa Chi Nhánh – Cisco Packet Tracer
+# Mô Phỏng Hạ Tầng Mạng Doanh Nghiệp – Cisco Packet Tracer
 
 ## Giới thiệu
 Dự án mô phỏng hạ tầng mạng cho một doanh nghiệp có **3 chi nhánh/site** được kết nối với nhau thông qua đường truyền WAN (Serial link), sử dụng **Cisco Packet Tracer**. Hệ thống được thiết kế với sơ đồ địa chỉ IP rõ ràng, triển khai dịch vụ **DHCP phân tán tại từng site** và **DNS tập trung** phục vụ toàn bộ hệ thống, mô phỏng đúng mô hình mạng WAN thực tế mà doanh nghiệp có nhiều văn phòng/chi nhánh thường sử dụng.
